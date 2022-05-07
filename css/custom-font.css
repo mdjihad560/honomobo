@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'arial';
+  src: url('../fonts/arial.eot');
+  src: url('../fonts/arial.eot') format('embedded-opentype'),
+       url('../fonts/arial.woff2') format('woff2'),
+       url('../fonts/arial.woff') format('woff'),
+       url('../fonts/arial.ttf') format('truetype'),
+       url('../fonts/arial.svg#arial') format('svg');
+}
